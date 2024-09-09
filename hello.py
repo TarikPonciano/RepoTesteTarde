@@ -1,1 +1,1 @@
-print("Goodybe World")
+print("Good World")
